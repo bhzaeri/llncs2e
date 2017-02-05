@@ -1,0 +1,95 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{ali2011boosting}
+Ali, M.Z., Salhieh, A., Snanieh, R.T.A., Reynolds, R.G.: Boosting cultural
+  algorithms with an incongruous layered social fabric influence function. In:
+  2011 IEEE Congress of Evolutionary Computation (CEC). pp. 1225--1232. IEEE
+  (2011)
+
+\bibitem{ali2012socio}
+Ali, M.Z., Salhieh, A.M., Reynolds, R.G.: Socio-cultural evolution via
+  neighborhood-restructuring in intricate multi-layered networks. In: 2012 IEEE
+  Congress on Evolutionary Computation. pp. 1--8. IEEE (2012)
+
+\bibitem{ali2016leveraged}
+Ali, M.Z., Suganthan, P.N., Reynolds, R.G., Al-Badarneh, A.F.: Leveraged
+  neighborhood restructuring in cultural algorithms for solving real-world
+  numerical optimization problems. IEEE transactions on evolutionary
+  computation  20(2),  218--231 (2016)
+
+\bibitem{bratton2007defining}
+Bratton, D., Kennedy, J.: Defining a standard for particle swarm optimization.
+  In: 2007 IEEE swarm intelligence symposium. pp. 120--127. IEEE (2007)
+
+\bibitem{che2010robust}
+Che, X., Ali, M., Reynolds, R.G.: Robust evolution optimization at the edge of
+  chaos: Commercialization of culture algorithms. In: IEEE Congress on
+  Evolutionary Computation. pp. 1--8. IEEE (2010)
+
+\bibitem{chen2006tribe}
+Chen, K., Li, T., Cao, T.: Tribe-pso: A novel global optimization algorithm and
+  its application in molecular docking. Chemometrics and intelligent laboratory
+  systems  82(1),  248--259 (2006)
+
+\bibitem{chen2014problem}
+Chen, Q., Liu, B., Zhang, Q., Liang, J., Suganthan, P., Qu, B.: Problem
+  definitions and evaluation criteria for cec 2015 special session on bound
+  constrained single-objective computationally expensive numerical
+  optimization. Tech. rep., Technical Report, Computational Intelligence
+  Laboratory, Zhengzhou University, Zhengzhou (2014)
+
+\bibitem{de2009heterogeneous}
+De~Oca, M.A.M., Pe{\~n}a, J., Stutzle, T., Pinciroli, C., Dorigo, M.:
+  Heterogeneous particle swarm optimizers. In: 2009 IEEE Congress on
+  Evolutionary Computation. pp. 698--705. IEEE (2009)
+
+\bibitem{kennedy2011particle}
+Kennedy, J.: Particle swarm optimization. In: Encyclopedia of machine learning,
+  pp. 760--766. Springer (2011)
+
+\bibitem{kennedy2001swarm}
+Kennedy, J., Kennedy, J.F., Eberhart, R.C., Shi, Y.: Swarm intelligence. Morgan
+  Kaufmann (2001)
+
+\bibitem{king2008embedding}
+King, I., Li, Y., Duan, H., Reynolds, R., Ali, M.: Embedding a social fabric
+  component into cultural algorithms toolkit for an enhanced knowledge-driven
+  engineering optimization. International Journal of Intelligent Computing and
+  Cybernetics  1(4),  563--597 (2008)
+
+\bibitem{kobti2013heterogeneous}
+Kobti, Z., et~al.: Heterogeneous multi-population cultural algorithm. In: 2013
+  IEEE Congress on Evolutionary Computation. pp. 292--299. IEEE (2013)
+
+\bibitem{mendes2004population}
+Mendes, R.: Population topologies and their influence in particle swarm
+  performance. Ph.D. thesis, Citeseer (2004)
+
+\bibitem{RaeesiN.2014}
+Raeesi~N., M.R., Kobti, Z.: Heterogeneous Multi-Population Cultural Algorithm
+  with a Dynamic Dimension Decomposition Strategy, pp. 345--350. Springer
+  International Publishing, Cham (2014)
+
+\bibitem{reynolds1994introduction}
+Reynolds, R.G.: An introduction to cultural algorithms. In: Proceedings of the
+  third annual conference on evolutionary programming. vol. 131139. Singapore
+  (1994)
+
+\bibitem{reynolds2008computing}
+Reynolds, R.G., Ali, M.: Computing with the social fabric: The evolution of
+  social intelligence within a cultural framework. IEEE computational
+  intelligence magazine  3(1),  18--30 (2008)
+
+\bibitem{reynolds2008social}
+Reynolds, R.G., Ali, M.Z.: The social fabric approach as an approach to
+  knowledge integration in cultural algorithms. In: 2008 IEEE Congress on
+  Evolutionary Computation (IEEE World Congress on Computational Intelligence).
+  pp. 4200--4207. IEEE (2008)
+
+\bibitem{sterling2004aggregation}
+Sterling, S.E.: Aggregation techniques to characterize social networks. Tech.
+  rep., DTIC Document (2004)
+
+\end{thebibliography}
